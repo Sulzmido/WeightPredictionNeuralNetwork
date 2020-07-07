@@ -1,0 +1,16 @@
+
+The datafile will contain records of various Mother's data like weight, height and age and the corresponding weight of the child they gives birth to. An artificial neural network will be developed. This neural network will be trained using the LM BP algorithm on a portion of the data. The trained neural network will then be used to predict the remaining portion of the data to test the network's effectiveness, accuracy and error.
+
+
+This project will comprise of a datafile and a Matlab program.
+Users will be able to predict a baby's weight if they know the weight , height and age of a mother using a trained artificial neural network developed with Matlab.
+
+Artificial neural network ?
+A neural network is a massively parallel distributed processor made up of simple
+processing units that have a natural tendency for storing experiential knowledge and
+making it available for us. Artificial neural network (ANN) is a type of Artificial Intelligence
+technique that mimics the behavior of the human brain (Haykin, 2009).
+
+Seeing patterns in data that could help us make better predictions about the future. This project is a stepping stone..opens the floodgates for more research.
+
+Knowing the weight of a baby beforehand can help reduce post natal deaths . Relying on the human brain to predict these weights is simply impossible. A task that can be easily carried out by a well trained artificial neural network. 
